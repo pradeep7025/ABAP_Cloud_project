@@ -1,0 +1,4 @@
+@EndUserText.label: 'Demo PK'
+define service ZSRV_DEMO_PK {
+  expose ZTRL_travle_DF;
+}

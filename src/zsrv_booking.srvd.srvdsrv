@@ -1,0 +1,4 @@
+@EndUserText.label: 'Booking Service'
+define service ZSRV_booking {
+  expose ZTRL_booking_dd;
+}

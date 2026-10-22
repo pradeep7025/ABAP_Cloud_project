@@ -1,0 +1,4 @@
+@EndUserText.label: 'Agency Service'
+define service ZSRV_Agency {
+  expose ZTRL_Agency;
+}
